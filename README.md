@@ -1,2 +1,2 @@
-# rango
+# tango_with_django_project
 tangowithdjango19
